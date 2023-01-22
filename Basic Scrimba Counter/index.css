@@ -40,6 +40,10 @@ button {
     border-radius: 10px;
 }
 
+button:hover {
+    color: black
+}
+
 #increment-btn {
     background: blue;
 }
